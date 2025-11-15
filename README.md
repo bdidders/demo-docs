@@ -1,4 +1,3 @@
-````markdown
 # demo-docs
 
 Welcome to **demo-docs**, a sample documentation space designed to be used with **Docify** – an internal, GitBook-style documentation platform that syncs content directly from a GitHub repository.
@@ -466,7 +465,3 @@ If you’re using this as a blueprint for your **own** docs repo:
 
 Happy documenting! ✨
 *This repo exists to help you ship better internal docs with less friction.*
-
-```
-::contentReference[oaicite:0]{index=0}
-```
